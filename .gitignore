@@ -1,0 +1,16 @@
+*.db
+*.log
+log/
+pic/
+custom/
+data/
+.vendor/
+.idea/
+*.iml
+*.exe~
+*.pem
+*.bak
+output*
+*.sublime-project
+*.sublime-workspace
+/release
